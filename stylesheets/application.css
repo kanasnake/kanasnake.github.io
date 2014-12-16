@@ -1,0 +1,37 @@
+
+
+#canvas {
+  background-color: white;
+  opacity: 0.9;
+}
+
+#cafetiere {
+  height: 50px;
+  visibility: hidden;
+}
+
+#valentin {
+  height: 50px;
+  visibility: hidden;
+
+}
+
+#bigval {
+  height: 500px;
+}
+
+body {
+  overflow: hidden;
+}
+
+#wrapper {
+  width: 100%;
+  background-repeat: no-repeat;
+  background-image: url(../images/home.jpg);
+  background-attachment: fixed;
+  margin-right: 0px;
+  margin-left: 0px;
+  overflow: hidden;
+  background-size: cover !important;
+  position: relative;
+}
